@@ -4,7 +4,7 @@
  * MIT Licensed
  *
  * @author Kevin J. Martin
- * @version 0.2.0
+ * @version 0.2.1
  */
 
 /**
@@ -256,8 +256,8 @@ var L10n = (function () {
 		define("L10n", [], function () { return L10n; });
 	}
 
-	if (typeof define !== "undefined") {
-		exports = L10n;
+	if (typeof module !== "undefined" && typeof module.exports !== "undefined") {
+		module.exports = L10n;
 	}
 
 	return L10n;

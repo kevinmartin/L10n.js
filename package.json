@@ -1,0 +1,41 @@
+{
+  "name": "l10n",
+  "version": "0.2.1",
+  "description": "Localization (L10n) mapping and information with support for over 140 localizations",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KevinMartin/L10n.js.git"
+  },
+  "keywords": [
+    "L10n",
+    "L10n.js",
+    "locale",
+    "localization",
+    "localisation",
+    "language",
+    "localize",
+    "localise",
+    "translate",
+    "format",
+    "country",
+    "code",
+    "culture"
+  ],
+  "author": "Kevin Jose Martin",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/KevinMartin/L10n.js/blob/master/LICENSE"
+  }],
+  "bugs": "https://github.com/KevinMartin/L10n.js/issues",
+  "dependencies": {},
+  "devDependencies": {
+	  "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  }
+}
