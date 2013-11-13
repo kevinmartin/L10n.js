@@ -153,7 +153,7 @@ var L10n = (function () {
 		'en_tt': {language: 'English (Trinidad)', fallback: 'eng'},
 		'en_us': {language: 'English (United States)', fallback: 'eng'},
 		'en_za': {language: 'English (South Africa)', fallback: 'eng'},
-		'es': {language: 'Spanish (Spain - Traditional)', locale: 'spa', fallback: 'spa'},
+		'es': {language: 'Spanish', locale: 'spa', fallback: 'spa'},
 		'es_ar': {language: 'Spanish (Argentina)', fallback: 'spa'},
 		'es_bo': {language: 'Spanish (Bolivia)', fallback: 'spa'},
 		'es_cl': {language: 'Spanish (Chile)', fallback: 'spa'},
