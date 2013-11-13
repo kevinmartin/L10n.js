@@ -1,4 +1,5 @@
 # L10n.js
+[![Build Status](https://secure.travis-ci.org/KevinMartin/L10n.js.png)](http://travis-ci.org/KevinMartin/L10n.js)
 
 Localization (L10n) mapping and information with support for over 140 localizations.
 
