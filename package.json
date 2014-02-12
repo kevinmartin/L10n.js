@@ -1,6 +1,6 @@
 {
   "name": "l10n",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Localization (L10n) mapping and information with support for over 140 localizations",
   "main": "index.js",
   "scripts": {
