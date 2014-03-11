@@ -99,7 +99,7 @@ var L10n = (function () {
 		'srp': 'sr', 'slo': 'sk', 'slk': 'sk', 'slv': 'sl', 'wen': 'sb', 'spa': 'es',
 		'swe': 'sv', 'tha': 'th', 'tso': 'ts', 'tsn': 'tn', 'tur': 'tr', 'ukr': 'uk',
 		'urd': 'ur', 'ven': 've', 'vie': 'vi', 'cym': 'cy', 'xho': 'xh', 'yid': 'yi',
-		'zul': 'zu'
+		'zul': 'zu', 'tgl': 'tl'
 	};
 
 	/**
@@ -177,6 +177,7 @@ var L10n = (function () {
 		'eu': {language: 'Basque', locale: 'baq', fallback: 'baq'},
 		'fa': {language: 'Farsi', locale: 'per', fallback: 'per', direction: 'rtl'},
 		'fi': {language: 'Finnish', locale: 'fin', fallback: 'fin'},
+		'fil': {language: 'Filipino', locale: 'fil', fallback: 'tl_ph'},
 		'fo': {language: 'Faeroese', locale: 'fao', fallback: 'fao'},
 		'fr': {language: 'French', locale: 'fre', fallback: 'fre'},
 		'fr_be': {language: 'French (Belgium)', fallback: 'fre'},
@@ -232,6 +233,8 @@ var L10n = (function () {
 		'sv_fi': {language: 'Swedish (Finland)', fallback: 'swe'},
 		'sx': {language: 'Sutu', locale: 'sx', fallback: 'sx'},
 		'sz': {language: 'Sami (Lappish)', locale: 'smi', fallback: 'smi'},
+		'tl': {language: 'Tagalog', locale: 'tgl', fallback: 'tgl'},
+		'tl_ph': {language: 'Tagalog (Philippines)', fallback: 'tgl'},
 		'th': {language: 'Thai', locale: 'tha', fallback: 'tha'},
 		'tn': {language: 'Tswana', locale: 'tsn', fallback: 'tsn'},
 		'tr': {language: 'Turkish', locale: 'tur', fallback: 'tur'},
